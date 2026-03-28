@@ -1,0 +1,820 @@
+{
+  "map": {
+    "name": "NUST Islamabad Campus",
+    "boundary": [
+      72.99,
+      33.643,
+      0.021,
+      0.018
+    ],
+    "image": "nust_campus.jpg",
+    "extent": [
+      72.979903,
+      73.005781,
+      33.631807,
+      33.655191
+    ]
+  },
+  "points": [
+    {
+      "id": "security-w",
+      "x": 72.98352,
+      "y": 33.64987,
+      "name": "Security CheckPost (West)",
+      "category": "Gate",
+      "data": {}
+    },
+    {
+      "id": "gate-2",
+      "x": 72.98398,
+      "y": 33.64978,
+      "name": "Gate 2 (H-12 Side)",
+      "category": "Gate",
+      "data": {}
+    },
+    {
+      "id": "football-gnd",
+      "x": 72.98601,
+      "y": 33.64758,
+      "name": "Football Ground",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "galaxy",
+      "x": 72.98045,
+      "y": 33.64666,
+      "name": "Galaxy Boys Hostel",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "rayyan",
+      "x": 72.98071,
+      "y": 33.64543,
+      "name": "Rayyan Boys Hostel",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "capital-girls",
+      "x": 72.98113,
+      "y": 33.64599,
+      "name": "Capital Hostel for Girls",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "hbl-cricket",
+      "x": 72.98422,
+      "y": 33.64666,
+      "name": "HBL Cricket Ground",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "cie",
+      "x": 72.98393,
+      "y": 33.64549,
+      "name": "CIE Building",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "gate-4",
+      "x": 72.9834,
+      "y": 33.64416,
+      "name": "Gate 4",
+      "category": "Gate",
+      "data": {}
+    },
+    {
+      "id": "exam-center",
+      "x": 72.98384,
+      "y": 33.64472,
+      "name": "Exam Center",
+      "category": "Admin",
+      "data": {}
+    },
+    {
+      "id": "nice",
+      "x": 72.9845,
+      "y": 33.64315,
+      "name": "NICE",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "tennis",
+      "x": 72.98578,
+      "y": 33.64641,
+      "name": "Lawn Tennis Court",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "admin-iqbal",
+      "x": 72.98664,
+      "y": 33.64667,
+      "name": "Admin Office (Iqbal Square)",
+      "category": "Admin",
+      "data": {}
+    },
+    {
+      "id": "masjid-rehmat",
+      "x": 72.98727,
+      "y": 33.64566,
+      "name": "Masjid-e-Rehmat",
+      "category": "Mosque",
+      "data": {}
+    },
+    {
+      "id": "iqbal-sq",
+      "x": 72.98779,
+      "y": 33.64704,
+      "name": "Iqbal Square",
+      "category": "Landmark",
+      "data": {}
+    },
+    {
+      "id": "rimms",
+      "x": 72.98836,
+      "y": 33.64545,
+      "name": "RIMMS",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "igis",
+      "x": 72.9898,
+      "y": 33.64545,
+      "name": "IGIS",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "uspcas-e",
+      "x": 72.98478,
+      "y": 33.64483,
+      "name": "USPCAS-E",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "fatima-3",
+      "x": 72.98648,
+      "y": 33.64514,
+      "name": "Fatima Hostel III",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "fatima-1",
+      "x": 72.98634,
+      "y": 33.64467,
+      "name": "Fatima Hostel I",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "gate-15",
+      "x": 72.98578,
+      "y": 33.64412,
+      "name": "Gate 15",
+      "category": "Gate",
+      "data": {}
+    },
+    {
+      "id": "nice-cricket",
+      "x": 72.98528,
+      "y": 33.64348,
+      "name": "NICE Cricket Ground",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "iaec",
+      "x": 72.98881,
+      "y": 33.6449,
+      "name": "IAEC",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "c2-cafe",
+      "x": 72.98855,
+      "y": 33.64378,
+      "name": "Concordia-2 (C2) Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "gate-16",
+      "x": 72.98901,
+      "y": 33.64347,
+      "name": "Gate 16",
+      "category": "Gate",
+      "data": {}
+    },
+    {
+      "id": "vball-iese",
+      "x": 72.99259,
+      "y": 33.64755,
+      "name": "IESE Volleyball Court",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "asab",
+      "x": 72.99032,
+      "y": 33.64679,
+      "name": "ASAB",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "iese",
+      "x": 72.99218,
+      "y": 33.64743,
+      "name": "IESE",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "sada",
+      "x": 72.99088,
+      "y": 33.64604,
+      "name": "SADA",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "ibrahim-mess",
+      "x": 72.99011,
+      "y": 33.64568,
+      "name": "Ibrahim Mess",
+      "category": "Mess",
+      "data": {}
+    },
+    {
+      "id": "fac-lounge",
+      "x": 72.99026,
+      "y": 33.6457,
+      "name": "Faculty Lounge",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "c1-cafe",
+      "x": 72.99243,
+      "y": 33.64586,
+      "name": "Concordia-1 (C1) Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "vball-sada",
+      "x": 72.99157,
+      "y": 33.6454,
+      "name": "Volleyball Court (SADA)",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "coffee-lng",
+      "x": 72.99363,
+      "y": 33.64651,
+      "name": "Coffee Lounge",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "grid-station",
+      "x": 72.99452,
+      "y": 33.64713,
+      "name": "NUST Grid Station",
+      "category": "Infrastructure",
+      "data": {}
+    },
+    {
+      "id": "nbs",
+      "x": 72.99141,
+      "y": 33.64399,
+      "name": "NBS",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "rumi-1",
+      "x": 72.99334,
+      "y": 33.64455,
+      "name": "Rumi Hostel I",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "rumi-2",
+      "x": 72.99368,
+      "y": 33.64414,
+      "name": "Rumi Hostel II",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "bball-s3h",
+      "x": 72.99286,
+      "y": 33.64304,
+      "name": "Basketball Court (S3H)",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "gym",
+      "x": 72.99394,
+      "y": 33.64321,
+      "name": "Gym",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "zainab",
+      "x": 72.99508,
+      "y": 33.64339,
+      "name": "Zainab Hostel",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "scme",
+      "x": 72.99645,
+      "y": 33.64684,
+      "name": "SCME",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "scme-canteen",
+      "x": 72.99707,
+      "y": 33.64688,
+      "name": "SCME Canteen",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "scme-cricket",
+      "x": 72.99537,
+      "y": 33.64617,
+      "name": "SCME Cricket Ground",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "sns-new",
+      "x": 72.99718,
+      "y": 33.64589,
+      "name": "SNS New Building",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "med-school",
+      "x": 72.99751,
+      "y": 33.64525,
+      "name": "School of Health Sciences",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "trail",
+      "x": 72.99886,
+      "y": 33.64422,
+      "name": "NUST Trail (Park)",
+      "category": "Landmark",
+      "data": {}
+    },
+    {
+      "id": "gate-1",
+      "x": 73.00147,
+      "y": 33.64408,
+      "name": "Gate 1 (Main Gate)",
+      "category": "Gate",
+      "data": {}
+    },
+    {
+      "id": "gate-10",
+      "x": 73.00147,
+      "y": 33.64385,
+      "name": "Gate 10",
+      "category": "Gate",
+      "data": {}
+    },
+    {
+      "id": "entrance-cafe",
+      "x": 73.00177,
+      "y": 33.64361,
+      "name": "Entrance Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "reception",
+      "x": 73.00182,
+      "y": 33.64367,
+      "name": "NUST Reception",
+      "category": "Admin",
+      "data": {}
+    },
+    {
+      "id": "npa",
+      "x": 73.00411,
+      "y": 33.64363,
+      "name": "National Police Academy",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "bball-razi",
+      "x": 72.98472,
+      "y": 33.64137,
+      "name": "Basketball Court (Razi)",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "iqbal-mess",
+      "x": 72.98529,
+      "y": 33.64269,
+      "name": "Iqbal Mess",
+      "category": "Mess",
+      "data": {}
+    },
+    {
+      "id": "sirsyed-mess",
+      "x": 72.98623,
+      "y": 33.6429,
+      "name": "Sir Syed Mess",
+      "category": "Mess",
+      "data": {}
+    },
+    {
+      "id": "squash",
+      "x": 72.98624,
+      "y": 33.64254,
+      "name": "Squash Court",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "ghazali-2",
+      "x": 72.9864,
+      "y": 33.64204,
+      "name": "Ghazali Hostel 2",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "razi",
+      "x": 72.9852,
+      "y": 33.64187,
+      "name": "Razi Hostel",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "jango-cafe",
+      "x": 72.98603,
+      "y": 33.64082,
+      "name": "Jango Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "ghazali-1",
+      "x": 72.98641,
+      "y": 33.64148,
+      "name": "Ghazali Hostel 1",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "bhittai-mess",
+      "x": 72.98704,
+      "y": 33.64139,
+      "name": "Bhittai Mess 1",
+      "category": "Mess",
+      "data": {}
+    },
+    {
+      "id": "seecs-ug",
+      "x": 72.98983,
+      "y": 33.64226,
+      "name": "SEECS UG Block",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "retro-cafe",
+      "x": 72.98608,
+      "y": 33.64073,
+      "name": "RETRO Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "liaquat",
+      "x": 72.98681,
+      "y": 33.64058,
+      "name": "Liaquat Hostel",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "attar-1",
+      "x": 72.9874,
+      "y": 33.64067,
+      "name": "Attar Hostel 1",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "lake",
+      "x": 72.98808,
+      "y": 33.64045,
+      "name": "NUST Lake",
+      "category": "Landmark",
+      "data": {}
+    },
+    {
+      "id": "c4-cafe",
+      "x": 72.98457,
+      "y": 33.63724,
+      "name": "C4 Cafe (near SMME)",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "smme",
+      "x": 72.98514,
+      "y": 33.63749,
+      "name": "SMME",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "sns-old",
+      "x": 72.98627,
+      "y": 33.63768,
+      "name": "SNS Old Building",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "smme-ws",
+      "x": 72.98621,
+      "y": 33.63686,
+      "name": "SMME Workshop",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "saddle-club",
+      "x": 72.98852,
+      "y": 33.63711,
+      "name": "Saddle Club (Horse Riding)",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "sns-cricket",
+      "x": 72.98747,
+      "y": 33.63678,
+      "name": "SNS Cricket Ground",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "seecs",
+      "x": 72.99009,
+      "y": 33.64279,
+      "name": "SEECS",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "seecs-fac",
+      "x": 72.99059,
+      "y": 33.64264,
+      "name": "SEECS Faculty Block",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "seecs-pg",
+      "x": 72.99023,
+      "y": 33.64243,
+      "name": "SEECS PG Block",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "law-school",
+      "x": 72.99256,
+      "y": 33.6425,
+      "name": "NUST Law School",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "lib-cafe",
+      "x": 72.99074,
+      "y": 33.64121,
+      "name": "Central Library Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "convocation",
+      "x": 72.99185,
+      "y": 33.64186,
+      "name": "Convocation Ground",
+      "category": "Landmark",
+      "data": {}
+    },
+    {
+      "id": "central-lib",
+      "x": 72.99152,
+      "y": 33.64108,
+      "name": "Central Library",
+      "category": "Library",
+      "data": {}
+    },
+    {
+      "id": "main-office",
+      "x": 72.99232,
+      "y": 33.64126,
+      "name": "NUST Main Office",
+      "category": "Admin",
+      "data": {}
+    },
+    {
+      "id": "s3h",
+      "x": 72.99341,
+      "y": 33.64283,
+      "name": "S3H",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "khadija",
+      "x": 72.99509,
+      "y": 33.64218,
+      "name": "Khadija Hostel",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "auditorium",
+      "x": 72.99293,
+      "y": 33.64181,
+      "name": "NUST Auditorium",
+      "category": "Admin",
+      "data": {}
+    },
+    {
+      "id": "maryam-mess",
+      "x": 72.99454,
+      "y": 33.64166,
+      "name": "Maryam Mess",
+      "category": "Mess",
+      "data": {}
+    },
+    {
+      "id": "amna",
+      "x": 72.99506,
+      "y": 33.64155,
+      "name": "Amna Hostel",
+      "category": "Hostel",
+      "data": {}
+    },
+    {
+      "id": "c3-cafe",
+      "x": 72.99255,
+      "y": 33.64033,
+      "name": "C3 Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "south-edge",
+      "x": 72.99238,
+      "y": 33.64029,
+      "name": "South Edge Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "badminton",
+      "x": 72.99286,
+      "y": 33.63971,
+      "name": "Gym & Badminton Court",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "pool",
+      "x": 72.99337,
+      "y": 33.63998,
+      "name": "Swimming Pool",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "rector-house",
+      "x": 72.99477,
+      "y": 33.64065,
+      "name": "Rector House",
+      "category": "Admin",
+      "data": {}
+    },
+    {
+      "id": "masjid-sports",
+      "x": 72.99448,
+      "y": 33.63992,
+      "name": "Masjid (Sports Complex)",
+      "category": "Mosque",
+      "data": {}
+    },
+    {
+      "id": "sports-cplx",
+      "x": 72.99364,
+      "y": 33.63905,
+      "name": "Sports Complex",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "nstp",
+      "x": 72.99751,
+      "y": 33.64289,
+      "name": "NSTP",
+      "category": "Landmark",
+      "data": {}
+    },
+    {
+      "id": "nstp-cafe",
+      "x": 72.99808,
+      "y": 33.64288,
+      "name": "NSTP Cafe",
+      "category": "Cafe",
+      "data": {}
+    },
+    {
+      "id": "sines",
+      "x": 72.99865,
+      "y": 33.64217,
+      "name": "SINES",
+      "category": "Academic",
+      "data": {}
+    },
+    {
+      "id": "cemtech",
+      "x": 72.99977,
+      "y": 33.64148,
+      "name": "CEMTECH",
+      "category": "Industrial",
+      "data": {}
+    },
+    {
+      "id": "med-center",
+      "x": 72.99739,
+      "y": 33.64048,
+      "name": "NUST Medical Center",
+      "category": "Medical",
+      "data": {}
+    },
+    {
+      "id": "skating",
+      "x": 72.99324,
+      "y": 33.6384,
+      "name": "Skating Rink",
+      "category": "Sports",
+      "data": {}
+    },
+    {
+      "id": "villas",
+      "x": 72.99565,
+      "y": 33.63849,
+      "name": "NUST Villas",
+      "category": "Residential",
+      "data": {}
+    },
+    {
+      "id": "creative",
+      "x": 73.00151,
+      "y": 33.63939,
+      "name": "NUST Creative Learning School",
+      "category": "Academic",
+      "data": {}
+    }
+  ]
+}
